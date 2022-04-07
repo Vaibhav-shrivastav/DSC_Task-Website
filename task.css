@@ -133,6 +133,7 @@ nav{
 }
 html{
     background-color: rgb(255, 246, 235);
+    scroll-behavior: smooth;
 }
 .entrance{
     float: left;
